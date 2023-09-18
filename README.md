@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of knowledge fields.
 - 🌱 I’m currently learning PHP, C, C++, English and German.
 - 💞️ I’m looking to collaborate on Thunderbird and other Mizilla's projects.
-- 📫 My E-mail: afsn01@protonmail.com
+- 📫 E-mail: afsn01@protonmail.com
 - 📫 LinkedIn: https://br.linkedin.com/in/allan-ferreira-soares-a645561b1
 
 <!---
