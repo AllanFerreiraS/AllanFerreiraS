@@ -7,9 +7,6 @@
 
 ---
 
-![AllanFerreiraS GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanFerreiraS&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanFerreiraS&layout=compact)
-
 <div style="display: inline_block">
   <h3>Programming Languages</h3>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="Language C" heigth="50px" width="50px" />
